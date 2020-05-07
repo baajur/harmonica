@@ -1,10 +1,12 @@
-.. note::
-    :class: sphx-glr-download-link-note
+.. only:: html
 
-    Click :ref:`here <sphx_glr_download_sample_data_earth_gravity.py>` to download the full example code
-.. rst-class:: sphx-glr-example-title
+    .. note::
+        :class: sphx-glr-download-link-note
 
-.. _sphx_glr_sample_data_earth_gravity.py:
+        Click :ref:`here <sphx_glr_download_sample_data_earth_gravity.py>`     to download the full example code
+    .. rst-class:: sphx-glr-example-title
+
+    .. _sphx_glr_sample_data_earth_gravity.py:
 
 
 Earth Gravity
@@ -35,6 +37,8 @@ harmonic model EIGEN-6C4 [Forste_etal2014]_.
     Data variables:
         gravity          (latitude, longitude) float64 9.801e+05 ... 9.802e+05
         height_over_ell  (latitude, longitude) float64 1e+04 1e+04 ... 1e+04 1e+04
+    /home/travis/build/fatiando/harmonica/data/examples/earth_gravity.py:29: UserWarning: Tight layout not applied. The left and right margins cannot be made large enough to accommodate all axes decorations. 
+      plt.tight_layout()
 
 
 
@@ -71,7 +75,7 @@ harmonic model EIGEN-6C4 [Forste_etal2014]_.
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** ( 0 minutes  0.442 seconds)
+   **Total running time of the script:** ( 0 minutes  0.417 seconds)
 
 
 .. _sphx_glr_download_sample_data_earth_gravity.py:
@@ -84,13 +88,13 @@ harmonic model EIGEN-6C4 [Forste_etal2014]_.
 
 
 
-  .. container:: sphx-glr-download
+  .. container:: sphx-glr-download sphx-glr-download-python
 
      :download:`Download Python source code: earth_gravity.py <earth_gravity.py>`
 
 
 
-  .. container:: sphx-glr-download
+  .. container:: sphx-glr-download sphx-glr-download-jupyter
 
      :download:`Download Jupyter notebook: earth_gravity.ipynb <earth_gravity.ipynb>`
 

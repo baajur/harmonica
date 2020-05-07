@@ -1,10 +1,12 @@
-.. note::
-    :class: sphx-glr-download-link-note
+.. only:: html
 
-    Click :ref:`here <sphx_glr_download_gallery_isostasy_airy.py>` to download the full example code
-.. rst-class:: sphx-glr-example-title
+    .. note::
+        :class: sphx-glr-download-link-note
 
-.. _sphx_glr_gallery_isostasy_airy.py:
+        Click :ref:`here <sphx_glr_download_gallery_isostasy_airy.py>`     to download the full example code
+    .. rst-class:: sphx-glr-example-title
+
+    .. _sphx_glr_gallery_isostasy_airy.py:
 
 
 Airy Isostasy
@@ -63,8 +65,6 @@ isostatic Moho depth of Africa.
         density_mantle:   3300.0
         density_water:    1000.0
         reference_depth:  30000.0
-    /home/travis/build/fatiando/harmonica/examples/isostasy_airy.py:47: UserWarning: Tight layout not applied. The left and right margins cannot be made large enough to accommodate all axes decorations. 
-      plt.tight_layout()
 
 
 
@@ -123,13 +123,13 @@ isostatic Moho depth of Africa.
 
 
 
-  .. container:: sphx-glr-download
+  .. container:: sphx-glr-download sphx-glr-download-python
 
      :download:`Download Python source code: isostasy_airy.py <isostasy_airy.py>`
 
 
 
-  .. container:: sphx-glr-download
+  .. container:: sphx-glr-download sphx-glr-download-jupyter
 
      :download:`Download Jupyter notebook: isostasy_airy.ipynb <isostasy_airy.ipynb>`
 

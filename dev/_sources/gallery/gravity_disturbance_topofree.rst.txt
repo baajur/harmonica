@@ -1,10 +1,12 @@
-.. note::
-    :class: sphx-glr-download-link-note
+.. only:: html
 
-    Click :ref:`here <sphx_glr_download_gallery_gravity_disturbance_topofree.py>` to download the full example code
-.. rst-class:: sphx-glr-example-title
+    .. note::
+        :class: sphx-glr-download-link-note
 
-.. _sphx_glr_gallery_gravity_disturbance_topofree.py:
+        Click :ref:`here <sphx_glr_download_gallery_gravity_disturbance_topofree.py>`     to download the full example code
+    .. rst-class:: sphx-glr-example-title
+
+    .. _sphx_glr_gallery_gravity_disturbance_topofree.py:
 
 
 Topography-free (Bouguer) Gravity Disturbances
@@ -49,6 +51,8 @@ correction.
         height_over_ell  (latitude, longitude) float64 1e+04 1e+04 ... 1e+04 1e+04
         geoid            (latitude, longitude) float64 -29.5 -29.5 ... 15.37 15.37
         topography       (latitude, longitude) float64 2.762e+03 ... -4.179e+03
+    /home/travis/build/fatiando/harmonica/examples/gravity_disturbance_topofree.py:62: UserWarning: Tight layout not applied. The left and right margins cannot be made large enough to accommodate all axes decorations. 
+      plt.tight_layout()
 
 
 
@@ -106,7 +110,7 @@ correction.
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** ( 0 minutes  0.523 seconds)
+   **Total running time of the script:** ( 0 minutes  0.500 seconds)
 
 
 .. _sphx_glr_download_gallery_gravity_disturbance_topofree.py:
@@ -119,13 +123,13 @@ correction.
 
 
 
-  .. container:: sphx-glr-download
+  .. container:: sphx-glr-download sphx-glr-download-python
 
      :download:`Download Python source code: gravity_disturbance_topofree.py <gravity_disturbance_topofree.py>`
 
 
 
-  .. container:: sphx-glr-download
+  .. container:: sphx-glr-download sphx-glr-download-jupyter
 
      :download:`Download Jupyter notebook: gravity_disturbance_topofree.ipynb <gravity_disturbance_topofree.ipynb>`
 

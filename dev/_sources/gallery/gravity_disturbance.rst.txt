@@ -1,10 +1,12 @@
-.. note::
-    :class: sphx-glr-download-link-note
+.. only:: html
 
-    Click :ref:`here <sphx_glr_download_gallery_gravity_disturbance.py>` to download the full example code
-.. rst-class:: sphx-glr-example-title
+    .. note::
+        :class: sphx-glr-download-link-note
 
-.. _sphx_glr_gallery_gravity_disturbance.py:
+        Click :ref:`here <sphx_glr_download_gallery_gravity_disturbance.py>`     to download the full example code
+    .. rst-class:: sphx-glr-example-title
+
+    .. _sphx_glr_gallery_gravity_disturbance.py:
 
 
 Gravity Disturbances
@@ -39,6 +41,8 @@ data.
     Data variables:
         gravity          (latitude, longitude) float64 9.801e+05 ... 9.802e+05
         height_over_ell  (latitude, longitude) float64 1e+04 1e+04 ... 1e+04 1e+04
+    /home/travis/build/fatiando/harmonica/examples/gravity_disturbance.py:39: UserWarning: Tight layout not applied. The left and right margins cannot be made large enough to accommodate all axes decorations. 
+      plt.tight_layout()
 
 
 
@@ -83,7 +87,7 @@ data.
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** ( 0 minutes  0.905 seconds)
+   **Total running time of the script:** ( 0 minutes  0.855 seconds)
 
 
 .. _sphx_glr_download_gallery_gravity_disturbance.py:
@@ -96,13 +100,13 @@ data.
 
 
 
-  .. container:: sphx-glr-download
+  .. container:: sphx-glr-download sphx-glr-download-python
 
      :download:`Download Python source code: gravity_disturbance.py <gravity_disturbance.py>`
 
 
 
-  .. container:: sphx-glr-download
+  .. container:: sphx-glr-download sphx-glr-download-jupyter
 
      :download:`Download Jupyter notebook: gravity_disturbance.ipynb <gravity_disturbance.ipynb>`
 
